@@ -2,6 +2,7 @@
 
 This is the bioinformatics/chemoinformatics space for the French horse doping control laboratory.
 
+Current bioinformatician : Agnès Barnabé 🙋‍♀
 <!--
 
 **Here are some ideas to get you started:**
