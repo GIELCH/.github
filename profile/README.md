@@ -1,8 +1,10 @@
 # GIE Laboratoire des Courses Hippiques :racehorse:
 
-This is the bioinformatics/chemoinformatics space for the French horse doping control laboratory.
+📌 This organization regroups informatics tools developed at the French doping control laboratory.
 
-Current bioinformatician : Agnès Barnabé 🙋‍♀
+🚀 Those tools are applied to analytical chemistry and are meant to improve laboratory performance.
+
+Current bioinformatician: Agnès Barnabé 🙋‍♀
 <!--
 
 **Here are some ideas to get you started:**
